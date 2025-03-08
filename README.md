@@ -1,3 +1,3 @@
 # INFORMATYKA-2
-Jestem Dawid Przuchodzki i
+Jestem Dawid Przychodzki i
 UWIELBIAM C++💀
