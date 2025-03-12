@@ -6,7 +6,7 @@ PETLA FOR 👍
 ZMIENNE TABLICOWE 👍
 TABLICE ZNAKOWE I STRING 👎
 
-
+                                                                                                                                                          A
  
          |
          |
