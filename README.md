@@ -7,7 +7,7 @@ ZMIENNE TABLICOWE 👍
 TABLICE ZNAKOWE I STRING 👎
 
 
-
+ 
          |
          |
          | 
